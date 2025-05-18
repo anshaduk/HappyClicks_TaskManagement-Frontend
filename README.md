@@ -19,7 +19,25 @@ This is the **frontend** of the Task Manager App built using **React.js**, **Vit
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager/frontend
+git clone https://github.com/anshaduk/HappyClicks_TaskManagement-Frontend.git
+cd HappyClicks_TaskManagement-Frontend
+
+### 2. Install Dependencies
+npm install
+
+### 3. Run the development server
+npm run dev
+
+## ✨ Available Pages
+
+| Path         | Page Description               |
+| ------------ | ------------------------------ |
+| `/register`  | User registration              |
+| `/login`     | User login                     |
+| `/dashboard` | Task analytics overview        |
+| `/tasks`     | View, filter, and manage tasks |
+
+
+ 
 
 
